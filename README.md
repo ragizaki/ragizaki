@@ -6,5 +6,9 @@ I'm a 2nd year Computer Science Student at the University of Waterloo. I'm a lif
 
 ### Interests
 <ul>
-  <li>:soccer:</li
+  <li>:soccer: Soccer</li>
+  <li>:basketball: Basketball<li>
+  <li>:snowboarder: Snowboarding</li>
+  <li>:chess_pawn: Chess</li>
+  <li>:weight_lifting: Weightlifting</li>
 </ul>

@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hey, my name is Zaki 👋
 
-I'm Zaki, a Computer Science Student at the University of Waterloo. I'm a lifelong learner and currently working on React and TypeScript projects for my profile. I'm seeking Spring 2022 software internships!
+I'm a 2nd year Computer Science Student at the University of Waterloo. I'm a lifelong learner and currently working on React and TypeScript projects for my profile. I'm seeking Spring 2022 software internships!
 
-- 📫 How to reach me: <a href="http://linkedin.com/in/zaki-machfj" target="_blank">LinkedIn</a> or by email at <a href="mailto:zmachfj@uwaterloo.ca">zmachfj@uwaterloo.ca</a>
+- 📫 Feel free to connect with me on <a href="http://linkedin.com/in/zaki-machfj" target="_blank">LinkedIn</a> or reach out to me at <a href="mailto:zmachfj@uwaterloo.ca">zmachfj@uwaterloo.ca</a>
+
+### Interests
+<ul>
+  <li>:soccer:</li
+</ul>
